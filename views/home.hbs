@@ -1,0 +1,17 @@
+
+<div id="grid" class="grid main">
+</div>
+
+<div id="config-div" data-config="{{config}}"></div>
+
+<script>
+    console.log({{config}});
+
+    $(document).ready(function(){
+        //FIXME sort of a hack how we are parsing config from server
+        window.s3_screensaver_config = JSON.parse($("#config-div").attr("data-config"));
+        var imgClient = new S3Screensaver();
+        imgClient.start();
+    });
+
+</script>
