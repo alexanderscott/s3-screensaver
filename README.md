@@ -1,6 +1,9 @@
 # s3-screensaver
 Host an interactive gallery of photos from an s3 bucket.
 
+[![NPM](https://nodei.co/npm/s3-screensaver.png?downloads=true)](https://nodei.co/npm/s3-screensaver/)
+
+
 Uses the AWS SDK to retrieve photos from a provided bucket, and return them to a web client.  The web client uses [isotope](http://isotope.metafizzy.co/) to arrange the photos into a collage.  
 
 
