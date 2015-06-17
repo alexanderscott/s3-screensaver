@@ -1,2 +1,3 @@
-exports = require('./lib/s3-screensaver');
+"use strict";
 
+exports = require('./lib/s3-screensaver');
