@@ -23,13 +23,13 @@ body{
 
 .grid-item {
     float: left;
-    width: 100px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
 }
 
 .grid-item-img {
-    width: 100px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
 }
 
 .hide {
