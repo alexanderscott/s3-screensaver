@@ -20,7 +20,7 @@
         "express": "~3.x.x",
         "express-handlebars": "~1.2.1",
         "gulp": "^4.0.2",
-        "underscore": "~1.5.2"
+        "underscore": "~1.12.1"
     },
     "resolutions": {
         "graceful-fs": "^4.2.4"
