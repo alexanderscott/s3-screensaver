@@ -18,7 +18,7 @@
         "commander": "~2.0.0",
         "compression": "^1.4.4",
         "express": "~3.x.x",
-        "express-handlebars": "~1.2.1",
+        "express-handlebars": "~5.3.1",
         "gulp": "^4.0.2",
         "underscore": "~1.5.2"
     },
