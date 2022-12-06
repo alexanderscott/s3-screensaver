@@ -17,7 +17,7 @@
         "bunyan": "^1.8.14",
         "commander": "~2.0.0",
         "compression": "^1.4.4",
-        "express": "~3.x.x",
+        "express": "~4.x.x",
         "express-handlebars": "~1.2.1",
         "gulp": "^4.0.2",
         "underscore": "~1.5.2"
